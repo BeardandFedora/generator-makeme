@@ -40,11 +40,11 @@ To get shit done, here's a quick list of useful info.
 11. [Changelog](#changelog)
 12. [Upgrade](#upgrade)
 
-<img src="http://yeoman.io/static/illustration-home-inverted.1f863f34ba.png" width="500px">
+<img src="https://cloud.githubusercontent.com/assets/147231/22536662/57a7febe-e8b8-11e6-8c10-b1093b3786ac.png" width="500px">
 
 ---
 
-<img src="http://www.w3schools.com/angular/pic_angular.jpg" width="50px"><img src="https://supundharmarathne.files.wordpress.com/2013/08/nodejs.png" width="50px"><img src="http://www.codingpedia.org/wp-content/uploads/2014/04/gulp-2x.png" width="50px"><img src="https://wordimpress.com/assets/icon-grunt.png" width="50px"><img src="https://farm8.staticflickr.com/7255/7543242464_58d5d8ebae_z.jpg" width="50px"><img src="https://www.pubnub.com/blog/wp-content/uploads/2014/07/SOCKETIOICON.gif" width="50px"><img src="http://yeoman.io/static/yeoman-02.dc21b7fc1d.png" width="50px"><img src="http://chaijs.com/public/img/chai-logo.png" width="50px">
+<img src="http://www.w3schools.com/angular/pic_angular.jpg" width="50px"><img src="https://supundharmarathne.files.wordpress.com/2013/08/nodejs.png" width="50px"><img src="http://www.codingpedia.org/wp-content/uploads/2014/04/gulp-2x.png" width="50px"><img src="https://wordimpress.com/assets/icon-grunt.png" width="50px"><img src="https://farm8.staticflickr.com/7255/7543242464_58d5d8ebae_z.jpg" width="50px"><img src="https://www.pubnub.com/blog/wp-content/uploads/2014/07/SOCKETIOICON.gif" width="50px"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Yeoman.svg/724px-Yeoman.svg.png" width="50px"><img src="http://chaijs.com/img/chai-logo-small.png" width="50px">
 
 ---
 
