@@ -18,9 +18,9 @@
 # `Makeme` - A Universal Javascript generator for #coolkids 
 `Makeme` is a universal javascript stack generator for Yeoman - featuring Angular, Express, Node, Mongo and Socket. 
 
-[ ![Codeship Status for giftstarter/generator-makeme](https://codeship.com/projects/434a9b80-90b9-0133-623b-4e0b09ec4af6/status?branch=master)](https://codeship.com/projects/124478)
+[ ![Codeship Status for beardandfedora/generator-makeme](https://codeship.com/projects/#/status?branch=master)](https://codeship.com/projects/#)
 
-> Are you looking for [**`Makeme Famous`**](https://www.github.com/giftstarter/generator-makeme-famous)? 
+> Are you looking for [**`Makeme Famous`**](https://www.github.com/beardandfedora/generator-makeme-famous)?
 
 ## GyShiDo with `makeme`
 To get shit done, here's a quick list of useful info. 
@@ -76,7 +76,7 @@ Here are some of the main capabilities:
 * [Karma](https://karma-runner.github.io/) configured with [Code Coverage](https://karma-runner.github.io/0.8/config/coverage.html)
 * [Protractor](http://www.protractortest.org/) E2E Angular testing
 * [Browser-sync](https://www.browsersync.io/) for synchronised browser testing
-* Continuous integration with [Travic CI](https://travis-ci.org/giftstarter/generator-makeme)
+* Continuous integration with [Travic CI](https://travis-ci.org/beardandfedora/generator-makeme)
 * [TestFairy](http://testfairy.com/) publishing for mobile testing
 * [ES6](http://www.es6js.com/)/[7](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla) supported by using [`the babel`](https://babeljs.io/)
 
@@ -325,7 +325,7 @@ To include a third party `bower` package do the following:
   * 
 ## Changelog
 
-Recent changes can be viewed on Github on the [Releases Page](https://github.com/giftstarter/makeme/releases)
+Recent changes can be viewed on Github on the [Releases Page](https://github.com/beardandfedora/makeme/releases)
 
 
 ## Upgrade
@@ -339,11 +339,11 @@ npm update -g generator-makeme
 ```bash
 git pull github master
 ```
-from [makeme](https://github.com/giftstarter/makeme)
+from [makeme](https://github.com/beardandfedora/makeme)
 
 ## Contribute
 
-See the [contributing docs](https://github.com/giftstarter/generator-makeme/blob/master/contributing.md)
+See the [contributing docs](https://github.com/beardandfedora/generator-makeme/blob/master/contributing.md)
 
 This project has 2 main branches: `master` and `canary`. The `master` branch is where the current stable code lives and should be used for production setups. The `canary` branch is the main development branch, this is where PRs should be submitted to (backport fixes may be applied to `master`).
 

@@ -15,11 +15,11 @@
     "front-end",
     "app"
   ],
-  "homepage": "https://github.com/giftstarter/generator-makeme",
-  "bugs": "https://github.com/giftstarter/generator-makeme/issues",
-  "author": "Emotiv Labs (http://giftstarter.com/)",
+  "homepage": "https://github.com/beardandfedora/generator-makeme",
+  "bugs": "https://github.com/beardandfedora/generator-makeme/issues",
+  "author": "Emotiv Labs (http://canso.love/)",
   "contributors": [
-    "Joel Serino <joel@giftstarter.com> (http://giftstarter.com/)",
+    "Joel Serino <joel@canso.io> (http://canso.love)",
     "Tyler Henkel (http://tylerhenkel.com/)",
     "Andrew Koroluk <koroluka@gmail.com> (http://andrewk.me/)",
     "Cody Mize <me@codymize.com> (http://codymize.com/)",
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/giftstarter/generator-makeme.git"
+    "url": "git://github.com/beardandfedora/generator-makeme.git"
   },
   "scripts": {
     "test": "grunt test"
